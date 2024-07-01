@@ -14,3 +14,5 @@ pip install pyopenxlsx==3.0.4
 ```
 python main.py
 ```
+
+PS:请使用默认配置导出的xlsx
